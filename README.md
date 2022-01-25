@@ -1,2 +1,7 @@
 # go-studies
-Estudos e exercícios de Golang
+
+Aprendendo Golang !!
+
+- Estudos realizados usando o curso [Aprenda Go](https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg)
+
+- Exercícios realizados no [exercismo](https://exercism.org/tracks/go)
