@@ -8,6 +8,9 @@ var c string  // string vazia
 var d bool    // false
 
 func main() {
+
+	// valores zero, valores que o compilador atribui quando as variaveis não são inicializadas
+
 	fmt.Printf("%v, %T \n", a, a)
 	fmt.Printf("%v, %T \n", b, b)
 	fmt.Printf("%v, %T \n", c, c)
